@@ -1,0 +1,34 @@
+class AppImages {
+  static const String logo = 'assets/logo.png';
+  static const String buttonBack = 'assets/btn_back.png';
+  static const String buttonMap = 'assets/btn_map.png';
+  static const String buttonWishlist = 'assets/btn_wishlist.png';
+  static const String buttonWishlistActive = 'assets/btn_wishlist_active.png';
+  static const String city1 = 'assets/city1.png';
+  static const String city2 = 'assets/city2.png';
+  static const String city3 = 'assets/city3.png';
+  static const String city4 = 'assets/city4.png';
+  static const String city5 = 'assets/city5.png';
+  static const String city6 = 'assets/city6.png';
+  static const String error = 'assets/error.png';
+  static const String iconBedRoom = 'assets/icon_bedroom.png';
+  static const String iconCard = 'assets/icon_card.png';
+  static const String iconCupBoard = 'assets/icon_cupboard.png';
+  static const String iconEmail = 'assets/icon_email.png';
+  static const String iconHome = 'assets/icon_home.png';
+  static const String iconKitchen = 'assets/icon_kitchen.png';
+  static const String iconLogo = 'assets/icon_logo.png';
+  static const String iconLove = 'assets/icon_love.png';
+  static const String iconStarGrey = 'assets/icon_star_grey.png';
+  static const String iconStar = 'assets/icon_star.png';
+  static const String photo1 = 'assets/photo1.png';
+  static const String photo2 = 'assets/photo2.png';
+  static const String photo3 = 'assets/photo3.png';
+  static const String space1 = 'assets/space1.png';
+  static const String space2 = 'assets/space2.png';
+  static const String space3 = 'assets/space3.png';
+  static const String splashImage = 'assets/splash_image.png';
+  static const String thumbnail = 'assets/thumbnail.png';
+  static const String tips1 = 'assets/tips1.png';
+  static const String tips2 = 'assets/tips2.png';
+}
